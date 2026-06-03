@@ -1,0 +1,12 @@
+{
+  "name": "managed-socks5-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node proxy-server.js"
+  },
+  "dependencies": {
+    "@pondwader/socks5-server": "^1.0.10"
+  }
+}
